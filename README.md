@@ -1,7 +1,6 @@
 ### The Todo Application ###
 
-The todo application is a note taking application or how to put it, daily task reminder.
-Helps you create things to do for today, tomorrow or the day after.
+The todo application is a note taking application or how I put it, a daily task reminder. It helps you create notes or activities you intend working on or doing either today, tomorrow or the day after. Simplified and functional.
 
 ### How to Install and Run###
 1. Clone or download the repo.
